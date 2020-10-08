@@ -1,5 +1,4 @@
 # AboutMe
-<!DOCTYPE html>
 <html>
 
 <body>
