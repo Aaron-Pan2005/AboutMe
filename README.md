@@ -1,6 +1,4 @@
 # AboutMe
-<html>
-
 <body>
 
 @import "{{ site.theme }}";
@@ -19,4 +17,3 @@
 </h2>
 </body>
 
-</html>
