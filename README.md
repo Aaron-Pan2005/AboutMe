@@ -8,15 +8,15 @@
 
 <body>
 
-<style>
+@import "{{ site.theme }}";
+.page-header {
 h1 {color: purple;}
 h2 {color: purple;}
 h1 {font-size: 30px;}
 h2 {font-size: 30px;}
 p {font-size: 17px;}
 body {background: yellow;}
-</style>
-
+}
 <h1> <i>Who are you?</i> </h1>
 <p> Hello, I'm Aaron Pan, and I'm currently a <strong>Sophomore</strong> at Whitney High School! </p>
 <p> I like to learn how to code in the future and be better at it. </p>
