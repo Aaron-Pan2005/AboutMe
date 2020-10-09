@@ -17,6 +17,6 @@ body {background: yellow;}
 
 <h2> <i>Favorite things to do:</i> </h2>
 <p> I like to play video games on my freetime as well as doing mathematics to enhance my knowledge. </p>
-<img> https://i.pinimg.com/originals/ef/17/13/ef1713664570291e8ebe09c7a2d790dc.png <img>
+<a src https://i.pinimg.com/originals/ef/17/13/ef1713664570291e8ebe09c7a2d790dc.png <img>
 </body>
 
