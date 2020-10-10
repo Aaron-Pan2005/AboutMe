@@ -15,7 +15,7 @@ body {background: yellow;}
 <p> I like to learn how to code in the future and be better at it. </p>
 
 </body>
-[My Previous Made Game](https://studio.code.org/projects/gamelab/un1CttFp9iIa-9I0eqtwAO6dAjURGjbGpKruMvndesg)
+![My Previous Made Game](https://studio.code.org/projects/gamelab/un1CttFp9iIa-9I0eqtwAO6dAjURGjbGpKruMvndesg)
 <body>
 <h2> <i>Favorite things to do:</i> </h2>
 <p> I like to play video games on my freetime as well as doing mathematics to enhance my knowledge. </p>
