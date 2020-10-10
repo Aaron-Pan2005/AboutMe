@@ -16,6 +16,7 @@ body {background: yellow;}
 
 </body>
 
+![drawingImage](Drawing.jpg)
 
 <body>
 <h2> <i>Favorite things to do:</i> </h2>
