@@ -17,7 +17,7 @@ body {background: yellow;}
 
 <h2> <i>Favorite things to do:</i> </h2>
 <p> I like to play video games on my freetime as well as doing mathematics to enhance my knowledge. </p>
-<p> I also like                                                                                                                                                  
+<p> I also like to draw pictures on the internet in my free time. </p>                                                                                                                                              
 </body>                                                                                                                                                 
 
 ![Controller1](Controller.png)
