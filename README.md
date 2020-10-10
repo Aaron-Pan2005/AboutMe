@@ -15,7 +15,7 @@ body {background: yellow;}
 <p> I like to learn how to code in the future and be better at it. </p>
 
 </body>
-![
+
 
 <body>
 <h2> <i>Favorite things to do:</i> </h2>
