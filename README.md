@@ -33,7 +33,7 @@ body {background: yellow;}
 
 <body>
 <h3> Mr. Marchant's Website </h3>
-<p> Mr. Marchant is my amazing, 10th grade A.P. Computer Science teacher. He is really supportive and helps out with any problems that is asked to him. I really hope that I would enjoy being in Mr. Marchant's class and get to know him better throughout my Sophomore Year. </p>
+<p> Mr. Marchant is my favorite A.P. Computer Science teacher. He is really supportive and helps out with any problems that is asked to him. I really hope that I would enjoy being in Mr. Marchant's class and get to know him better throughout my Sophomore Year. </p>
 </body>
 
 [Mr. Marchant's Website](https://mrmarchant.com/)
